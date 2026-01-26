@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:starting_app/ui/pokemon_list_page.dart';
+import 'package:starting_app/ui/visualspace/comments_page.dart';
 
 void main() {
-  runApp(const PokemonListPage());
+  runApp(CommentsPage());
 }
